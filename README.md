@@ -1,7 +1,7 @@
 ### Eae, eu sou o Edu Fagundes! 👋
 
 - 🔭 Trabalho como Analista de Sistemas/Middleware/Cloud
-- 🌱 Estudando DevOps e montando uma stack em torno disso.
+- 🌱 Estudando DevOps/SRE e montando uma stack em torno disso.
 
  <div align="center">
   <a href="https://github.com/e-fagundes">
