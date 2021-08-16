@@ -18,7 +18,7 @@
   <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Edu-Apache" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg">
   <img align="center" alt="Edu-Bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
-</div>
+ </div>
 
 
  
