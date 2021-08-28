@@ -3,6 +3,7 @@
 - 🔭 Trabalho como Analista de Sistemas/Middleware/Cloud
 - 🌱 Estudando DevOps/SRE e montando uma stack em torno disso.
 
+
  <div align="center">
   <a href="https://github.com/e-fagundes">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=e-fagundes&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
