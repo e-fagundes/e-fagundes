@@ -1,76 +1,77 @@
 # Edu Fagundes
 
-Analista de Sistemas com foco em Middleware, Cloud, DevOps, SRE e automacao de plataformas.
+Analista de Sistemas com foco em Cloud, DevOps, SRE, automação e engenharia de plataformas.
 
-Trabalho conectando infraestrutura, operacao e desenvolvimento para criar ambientes mais confiaveis, repetiveis e faceis de manter. Meu foco atual esta em Red Hat Enterprise Linux, OpenShift, Ansible Automation Platform, containers, observabilidade e automacao orientada a produto.
+Atuo na construção e evolução de ambientes mais confiáveis, repetíveis e fáceis de operar. Meu foco atual está em Red Hat Enterprise Linux, OpenShift, Ansible Automation Platform, containers, observabilidade e práticas de plataforma orientadas a produto.
 
 ## Sobre mim
 
-- Atuo com Middleware, Cloud e plataformas corporativas.
+- Trabalho com plataformas corporativas, automação e operações em ambientes Linux e cloud.
 - Estou aprofundando minha trilha em DevOps, SRE, OpenShift e Ansible Automation Platform.
-- Gosto de transformar operacoes repetitivas em fluxos automatizados, documentados e auditaveis.
-- Tenho interesse especial em Internal Developer Platforms, confiabilidade, observabilidade e governanca tecnica.
+- Gosto de transformar atividades repetitivas em fluxos automatizados, documentados e auditáveis.
+- Tenho interesse especial em Internal Developer Platforms, confiabilidade, observabilidade, governança técnica e cultura de melhoria contínua.
 
-## Stack e interesses
+## Foco técnico
 
-| Area | Tecnologias |
+| Área | Tecnologias e temas |
 | --- | --- |
 | Plataformas | Red Hat Enterprise Linux, OpenShift, Kubernetes, Linux |
-| Automacao | Ansible, Ansible Automation Platform, Bash, Python |
+| Automação | Ansible, Ansible Automation Platform, Bash, Python |
 | Containers | Podman, Docker, Kubernetes, Buildah |
-| Middleware | Apache HTTP Server, Tomcat, integracoes corporativas |
-| Observabilidade | Splunk, Instana, troubleshooting de ambientes distribuidos |
-| Cloud e IA | AWS, IBM Cloud, watsonx, fundamentos de IA confiavel |
+| DevOps e SRE | CI/CD, versionamento, confiabilidade, operação e resposta a incidentes |
+| Observabilidade | Splunk, Instana, logs, troubleshooting e análise operacional |
+| Cloud e IA | AWS, IBM Cloud, watsonx e fundamentos de IA confiável |
 
 ## Projetos e labs
 
-Estou usando este espaco para organizar labs, estudos e demonstracoes tecnicas em torno de plataforma, automacao e operacao moderna.
+Uso este espaço para organizar estudos, labs e demonstrações técnicas em torno de plataforma, automação e operação moderna.
 
-- **Execution Environment Factory Lab**: lab de Internal Developer Platform para criacao governada de Ansible Execution Environments.
-- **OpenShift e containers**: estudos praticos sobre administracao, workloads e ciclo de vida de aplicacoes.
-- **Automacao com Ansible**: automacoes para padronizacao, troubleshooting e operacao de ambientes Linux/middleware.
-- **Observabilidade**: praticas com logs, metricas, administracao Splunk e analise operacional.
+- **Execution Environment Factory Lab**: laboratório de Internal Developer Platform para criação governada de Ansible Execution Environments.
+- **OpenShift e containers**: estudos práticos sobre administração, workloads e ciclo de vida de aplicações.
+- **Automação com Ansible**: automações para padronização, troubleshooting e operação de ambientes Linux.
+- **Observabilidade**: práticas com logs, métricas, administração Splunk e análise operacional.
+- **Cloud e IA aplicada**: estudos sobre cloud, watsonx e uso responsável de IA em contextos corporativos.
 
-## Licencas e certificacoes
+## Licenças e certificações
 
-### Certificacoes em destaque
+### Certificações em destaque
 
-| Certificacao | Emissor | Emissao | Validade | Competencias |
+| Certificação | Emissor | Emissão | Validade | Competências |
 | --- | --- | --- | --- | --- |
-| Red Hat Certified Specialist in Managing Automation with Ansible Automation Platform | Red Hat | May 2026 | May 2029 | Ansible Automation Platform, RHEL |
-| Red Hat OpenShift Administration II: Configuring a Production Cluster (DO280) - Ver. 4.18 | Red Hat | Mar 2026 | - | OpenShift, RHEL |
-| Red Hat Certified Specialist in Containers | Red Hat | Jul 2025 | - | Containers, Podman, OpenShift |
-| Red Hat OpenShift Developer I: Introduction to Containers with Podman (DO188) - Ver. 4.18 | Red Hat | Jul 2025 | - | Podman, containers, OpenShift |
+| Red Hat Certified Specialist in Managing Automation with Ansible Automation Platform | Red Hat | Maio de 2026 | Maio de 2029 | Ansible Automation Platform, RHEL |
+| Red Hat OpenShift Administration II: Configuring a Production Cluster (DO280) - Ver. 4.18 | Red Hat | Março de 2026 | - | OpenShift, RHEL |
+| Red Hat Certified Specialist in Containers | Red Hat | Julho de 2025 | - | Containers, Podman, OpenShift |
+| Red Hat OpenShift Developer I: Introduction to Containers with Podman (DO188) - Ver. 4.18 | Red Hat | Julho de 2025 | - | Podman, containers, OpenShift |
 
-### Certificacoes complementares
+### Certificações complementares
 
-| Certificacao | Emissor | Emissao | Validade |
+| Certificação | Emissor | Emissão | Validade / ID |
 | --- | --- | --- | --- |
-| Lifelong Learning 2026 | Certiprof | Apr 2026 | Apr 2027 |
-| IBM watsonx Essentials | IBM | Jan 2024 | - |
-| Trustworthy AI and AI Ethics | IBM | Jan 2024 | - |
-| Client Facing Skills for Everyone | IBM | Jul 2023 | - |
-| Blue Core Mentor | IBM | Jun 2023 | Jun 2025 |
-| Instana by IBM Sales Foundation | IBM | Feb 2023 | Feb 2024 |
-| Troubleshooting Splunk Enterprise | Splunk | Jan 2023 | - |
-| Splunk Enterprise 9.0 System Administration | Splunk | Nov 2022 | - |
-| Splunk Cloud Administration | Splunk | Nov 2022 | - |
-| Cloud Core | IBM | Oct 2022 | - |
-| Enterprise Design Thinking Practitioner | IBM | Aug 2022 | - |
-| IBM Agile Explorer | IBM | Aug 2022 | - |
-| AWS Expert | LINUXtips | Jan 2022 | Credential ID 56599943 |
-| Uncomplicating Docker | LINUXtips | Aug 2021 | Credential ID 36240006 |
-| Scrum Foundation Professional Certification - SFPC | Certiprof | Aug 2020 | Aug 2022 |
-| Lifelong Learning | Certiprof | Aug 2022 | Aug 2023 |
-| Tecnico em Informatica | Etec Juscelino Kubitschek de Oliveira | Jun 2011 | Credential ID 735957 |
+| Lifelong Learning 2026 | Certiprof | Abril de 2026 | Abril de 2027 |
+| IBM watsonx Essentials | IBM | Janeiro de 2024 | - |
+| Trustworthy AI and AI Ethics | IBM | Janeiro de 2024 | - |
+| Client Facing Skills for Everyone | IBM | Julho de 2023 | - |
+| Blue Core Mentor | IBM | Junho de 2023 | Junho de 2025 |
+| Instana by IBM Sales Foundation | IBM | Fevereiro de 2023 | Fevereiro de 2024 |
+| Troubleshooting Splunk Enterprise | Splunk | Janeiro de 2023 | - |
+| Splunk Enterprise 9.0 System Administration | Splunk | Novembro de 2022 | - |
+| Splunk Cloud Administration | Splunk | Novembro de 2022 | - |
+| Cloud Core | IBM | Outubro de 2022 | - |
+| Enterprise Design Thinking Practitioner | IBM | Agosto de 2022 | - |
+| IBM Agile Explorer | IBM | Agosto de 2022 | - |
+| AWS Expert | LINUXtips | Janeiro de 2022 | Credential ID 56599943 |
+| Uncomplicating Docker | LINUXtips | Agosto de 2021 | Credential ID 36240006 |
+| Scrum Foundation Professional Certification - SFPC | Certiprof | Agosto de 2020 | Agosto de 2022 |
+| Lifelong Learning | Certiprof | Agosto de 2022 | Agosto de 2023 |
+| Técnico em Informática | Etec Juscelino Kubitschek de Oliveira | Junho de 2011 | Credential ID 735957 |
 
-### Roadmap de certificacoes
+### Roadmap de certificações
 
-| Status | Certificacao | Foco |
+| Status | Certificação | Foco |
 | --- | --- | --- |
-| Planejada | Red Hat Certified Engineer | Automacao Linux com Ansible em nivel avancado |
-| Planejada | OpenShift Administration / Specialist track | Administracao e operacao de clusters OpenShift |
-| Planejada | Kubernetes / Cloud Native | Fundamentos e operacao de workloads cloud native |
+| Planejada | Red Hat Certified Engineer | Automação Linux com Ansible em nível avançado |
+| Planejada | OpenShift Administration / Specialist track | Administração e operação de clusters OpenShift |
+| Planejada | Kubernetes / Cloud Native | Fundamentos e operação de workloads cloud native |
 | Planejada | Observabilidade | Monitoramento, logging, tracing e resposta a incidentes |
 
 ## Contato
@@ -82,5 +83,5 @@ Estou usando este espaco para organizar labs, estudos e demonstracoes tecnicas e
 </p>
 
 <p align="center">
-  <img alt="Snake animation" src="https://github.com/e-fagundes/e-fagundes/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="Animação de contribuições do GitHub" src="https://github.com/e-fagundes/e-fagundes/blob/output/github-contribution-grid-snake.svg" />
 </p>
