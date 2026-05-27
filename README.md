@@ -106,9 +106,5 @@ Uso este espaço para organizar estudos, labs e demonstrações técnicas em tor
 [LinkedIn](https://www.linkedin.com/in/edfagund/) | [GitHub](https://github.com/e-fagundes) | [Email](mailto:efagundes_@outlook.com)
 
 <p align="center">
-  <img alt="GitHub stats de Edu Fagundes" height="150" src="https://github-readme-stats.vercel.app/api?username=e-fagundes&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img alt="Animação de contribuições do GitHub" src="https://github.com/e-fagundes/e-fagundes/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="Animação de contribuições do GitHub" src="https://raw.githubusercontent.com/e-fagundes/e-fagundes/output/github-contribution-grid-snake.svg" />
 </p>
