@@ -1,34 +1,49 @@
 # Edu Fagundes
 
-Analista de Sistemas com foco em Cloud, DevOps, SRE, automação e engenharia de plataformas.
+**Senior Ansible Automation Engineer | Platform Engineering | Enterprise Automation**
 
-Atuo na construção e evolução de ambientes mais confiáveis, repetíveis e fáceis de operar. Meu foco atual está em Red Hat Enterprise Linux, OpenShift, Ansible Automation Platform, containers, observabilidade e práticas de plataforma orientadas a produto.
+Sou um profissional de tecnologia movido por curiosidade, experimentação e melhoria contínua. Desde cedo gosto de entender como as coisas funcionam, testar novas soluções e transformar aprendizado em prática. Hoje aplico esse perfil na construção de plataformas de automação, confiabilidade operacional e engenharia de ambientes corporativos em larga escala.
 
-## Sobre mim
+Atuo com **Ansible Automation Platform**, automação para ambientes **Linux e Windows**, integrações operacionais, observabilidade e governança de plataforma. Meu foco é criar capacidades reutilizáveis, documentadas e confiáveis, aproximando times de infraestrutura, operações e engenharia.
 
-- Trabalho com plataformas corporativas, automação e operações em ambientes Linux e cloud.
-- Estou aprofundando minha trilha em DevOps, SRE, OpenShift e Ansible Automation Platform.
-- Gosto de transformar atividades repetitivas em fluxos automatizados, documentados e auditáveis.
-- Tenho interesse especial em Internal Developer Platforms, confiabilidade, observabilidade, governança técnica e cultura de melhoria contínua.
+## Experiência em destaque
+
+- Evolução de plataforma corporativa de automação baseada em **Ansible Automation Platform (AAP)**.
+- Desenvolvimento de playbooks, workflows e integrações com **APIs**, **ServiceNow**, **Splunk** e fluxos baseados em GitHub.
+- Automação para ambientes Linux e Windows, com foco em governança, rastreabilidade, ciclo de vida e confiabilidade.
+- Participação em iniciativas de **Event-Driven Ansible (EDA)** para remediação orientada a eventos.
+- Experiência como **Site Reliability Engineer** em plataforma corporativa de observabilidade com Splunk.
+- Atuação com modernização de plataformas, cloud, containers, documentação técnica e transferência de conhecimento.
+
+## Impactos recentes
+
+- Aumento de mais de **30%** em remediações automatizadas.
+- Redução aproximada de **98%** no MTTR em cenários de automação operacional.
+- Crescimento de cerca de **3x** na capacidade da plataforma de automação.
+- Crescimento de cerca de **4x** nas execuções mensais de automação.
+- Redução estimada de **US$ 500K/ano** em custos operacionais por otimizações de uso de infraestrutura.
 
 ## Foco técnico
 
 | Área | Tecnologias e temas |
 | --- | --- |
-| Plataformas | Red Hat Enterprise Linux, OpenShift, Kubernetes, Linux |
-| Automação | Ansible, Ansible Automation Platform, Bash, Python |
-| Containers | Podman, Docker, Kubernetes, Buildah |
-| DevOps e SRE | CI/CD, versionamento, confiabilidade, operação e resposta a incidentes |
-| Observabilidade | Splunk, Instana, logs, troubleshooting e análise operacional |
+| Automação enterprise | Ansible, Ansible Automation Platform, Event-Driven Ansible |
+| Engenharia de plataforma | Platform governance, lifecycle management, DevEx, documentação e enablement |
+| Sistemas e infraestrutura | Red Hat Enterprise Linux, Linux, Windows Server |
+| Containers e cloud native | OpenShift, Kubernetes, Podman, Docker, Buildah |
+| Observabilidade e SRE | Splunk, Instana, logs, operação, confiabilidade e resposta a incidentes |
+| Integrações | ServiceNow, APIs, YAML, JSON, GitHub workflows |
+| Scripting e tooling | Python, Bash, PowerShell, Shell scripting |
 | Cloud e IA | AWS, IBM Cloud, watsonx e fundamentos de IA confiável |
 
 ## Projetos e labs
 
-Uso este espaço para organizar estudos, labs e demonstrações técnicas em torno de plataforma, automação e operação moderna.
+Uso este espaço para organizar estudos, labs e demonstrações técnicas em torno de automação, engenharia de plataforma, OpenShift, observabilidade e operação moderna.
 
 - **Execution Environment Factory Lab**: laboratório de Internal Developer Platform para criação governada de Ansible Execution Environments.
+- **Ansible Automation Platform**: estudos e experimentos com playbooks, workflows, inventários, governança e ciclo de vida de automações.
+- **Event-Driven Ansible**: explorações sobre automação orientada a eventos, remediação e integração com sinais operacionais.
 - **OpenShift e containers**: estudos práticos sobre administração, workloads e ciclo de vida de aplicações.
-- **Automação com Ansible**: automações para padronização, troubleshooting e operação de ambientes Linux.
 - **Observabilidade**: práticas com logs, métricas, administração Splunk e análise operacional.
 - **Cloud e IA aplicada**: estudos sobre cloud, watsonx e uso responsável de IA em contextos corporativos.
 
@@ -72,11 +87,23 @@ Uso este espaço para organizar estudos, labs e demonstrações técnicas em tor
 | Planejada | Red Hat Certified Engineer | Automação Linux com Ansible em nível avançado |
 | Planejada | OpenShift Administration / Specialist track | Administração e operação de clusters OpenShift |
 | Planejada | Kubernetes / Cloud Native | Fundamentos e operação de workloads cloud native |
-| Planejada | Observabilidade | Monitoramento, logging, tracing e resposta a incidentes |
+| Planejada | Observabilidade avançada | Monitoramento, logging, tracing e resposta a incidentes |
+| Planejada | Platform Engineering | Governança, DevEx, autosserviço e operação de plataformas |
+
+## Formação
+
+- Pós-graduação em Cybersecurity - Defensive Blue Team, FIAP.
+- Bacharelado em Ciência da Computação, Universidade Paulista.
+- Técnico em Informática, Etec Juscelino Kubitschek de Oliveira.
+
+## Idiomas
+
+- Português: nativo.
+- Inglês: proficiência profissional completa.
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/edfagund/) | [GitHub](https://github.com/e-fagundes) | [Email](mailto:fagundes.edu96@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/edfagund/) | [GitHub](https://github.com/e-fagundes) | [Email](mailto:efagundes_@outlook.com)
 
 <p align="center">
   <img alt="GitHub stats de Edu Fagundes" height="150" src="https://github-readme-stats.vercel.app/api?username=e-fagundes&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
