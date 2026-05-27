@@ -2,18 +2,20 @@
 
 **Senior Ansible Automation Engineer | Platform Engineering | Enterprise Automation**
 
-Sou um profissional de tecnologia movido por curiosidade, experimentação e melhoria contínua. Desde cedo gosto de entender como as coisas funcionam, testar novas soluções e transformar aprendizado em prática. Hoje aplico esse perfil na construção de plataformas de automação, confiabilidade operacional e engenharia de ambientes corporativos em larga escala.
+São Paulo, Brasil | Português nativo | Inglês profissional
 
-Atuo com **Ansible Automation Platform**, automação para ambientes **Linux e Windows**, integrações operacionais, observabilidade e governança de plataforma. Meu foco é criar capacidades reutilizáveis, documentadas e confiáveis, aproximando times de infraestrutura, operações e engenharia.
+Construo e evoluo plataformas de automação para ambientes corporativos em larga escala, com foco em **Ansible Automation Platform**, automação Linux/Windows, integrações operacionais, observabilidade e governança de plataforma.
 
-## Experiência em destaque
+Sou movido por curiosidade técnica desde cedo: gosto de entender como as coisas funcionam, testar novas soluções e transformar aprendizado em prática. Hoje esse perfil aparece no meu trabalho com automação enterprise, confiabilidade operacional e engenharia de plataforma orientada a produto.
 
-- Evolução de plataforma corporativa de automação baseada em **Ansible Automation Platform (AAP)**.
-- Desenvolvimento de playbooks, workflows e integrações com **APIs**, **ServiceNow**, **Splunk** e fluxos baseados em GitHub.
-- Automação para ambientes Linux e Windows, com foco em governança, rastreabilidade, ciclo de vida e confiabilidade.
-- Participação em iniciativas de **Event-Driven Ansible (EDA)** para remediação orientada a eventos.
-- Experiência como **Site Reliability Engineer** em plataforma corporativa de observabilidade com Splunk.
-- Atuação com modernização de plataformas, cloud, containers, documentação técnica e transferência de conhecimento.
+## O que eu construo
+
+- Plataformas corporativas de automação baseadas em **Ansible Automation Platform (AAP)**.
+- Playbooks, workflows e integrações com **APIs**, **ServiceNow**, **Splunk** e fluxos baseados em GitHub.
+- Automações para ambientes **Linux e Windows**, com foco em rastreabilidade, governança e ciclo de vida.
+- Capacidades de **Event-Driven Ansible (EDA)** para remediação orientada a eventos.
+- Soluções de observabilidade e confiabilidade operacional para ambientes de grande porte.
+- Documentação, enablement e modelos operacionais para times consumidores de plataforma.
 
 ## Impactos recentes
 
@@ -22,6 +24,13 @@ Atuo com **Ansible Automation Platform**, automação para ambientes **Linux e W
 - Crescimento de cerca de **3x** na capacidade da plataforma de automação.
 - Crescimento de cerca de **4x** nas execuções mensais de automação.
 - Redução estimada de **US$ 500K/ano** em custos operacionais por otimizações de uso de infraestrutura.
+
+## Como penso plataforma
+
+- Uma boa plataforma reduz atrito sem remover governança.
+- Automação precisa ser rastreável, reutilizável, documentada e segura para operar.
+- DevEx também importa em infraestrutura: consumidores internos precisam entender, usar e confiar na plataforma.
+- Observabilidade, versionamento e ciclo de vida são parte do produto, não detalhes posteriores.
 
 ## Foco técnico
 
@@ -40,7 +49,7 @@ Atuo com **Ansible Automation Platform**, automação para ambientes **Linux e W
 
 Uso este espaço para organizar estudos, labs e demonstrações técnicas em torno de automação, engenharia de plataforma, OpenShift, observabilidade e operação moderna.
 
-- **Execution Environment Factory Lab**: laboratório de Internal Developer Platform para criação governada de Ansible Execution Environments.
+- **[Execution Environment Factory Lab](https://github.com/e-fagundes/ee-factory-lab)**: laboratório de Internal Developer Platform para criação governada de Ansible Execution Environments.
 - **Ansible Automation Platform**: estudos e experimentos com playbooks, workflows, inventários, governança e ciclo de vida de automações.
 - **Event-Driven Ansible**: explorações sobre automação orientada a eventos, remediação e integração com sinais operacionais.
 - **OpenShift e containers**: estudos práticos sobre administração, workloads e ciclo de vida de aplicações.
